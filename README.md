@@ -1,12 +1,5 @@
 <h1>File Integrity Monitoring (FIM)</h1>
 
-<p>
-  <strong>Source:</strong> 
-  <a href="https://github.com/rafaelgpereira1/FIM">
-    https://github.com/rafaelgpereira1/FIM
-  </a>
-</p>
-
 <h2>Overview</h2>
 <ul>
   <li>Created an integrity baseline of target files/folders using the <strong>SHA-512 hashing algorithm</strong>.</li>
